@@ -1,14 +1,18 @@
-# Camera Ball Tracker
+#Camera Ball Tracker
 
-This project is a simple one I made for my university, which is for applying PID controller, some computer vision, and image processing.
+A project was made for the "Automatic Control Systems" lab at Damascus University.
 
-For the hardware part, I use OpenCM as a Microcontroller and Ax-12 Dynamixel servos for building a pan-tilt mechanism, this mechanism holds a camera to track a ball with a specific color and make it in the middle of the image using the PID algorithm.
+The project aimed to keep the ball within the center of the vision range using the PID controller and computer vision as feedback.
 
-The image processing is being done using Python and OpenCV library.
+It consists of:
+Hardware:
+- OpenCM as a Microcontroller was used.
+- Ax-12 Dynamixel servos for building a pan-tilt mechanism. This mechanism held a camera to track a ball with a specific color and tried to move it to the middle of the plate using the PID algorithm.
 
-To specify the ball color or the PID constants, I use Matlab figure which I decide to use because it is easy to build a GUI using it.
+Software:
+- Python and OpenCV library were used for image processing.
+- Matlab figure to specify the ball color or to tune PID constants.
+- A simple Java Processing program (Plotter.jar) to visual the errors state over time.
+- To communicate between Java, Python, and Matlab. Data files and flag files were in the same path.
 
-I use a simple Java Processing program (Plotter.jar) to visual the errors state over time.
-
-To transmit data between Java, Python, and Matlab, I use data files and flag files and put them in the same path.
-
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/6jPBWti7ggk)
