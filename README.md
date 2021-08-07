@@ -15,4 +15,4 @@ Software:
 - A simple Java Processing program (Plotter.jar) to visual the errors state over time.
 - To communicate between Java, Python, and Matlab. Data files and flag files were in the same path.
 
-[![IMAGE ALT TEXT HERE](https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Youtube-512.png)](https://youtu.be/6jPBWti7ggk)
+[![IMAGE ALT TEXT HERE](https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_2-youtube-256.png)](https://youtu.be/6jPBWti7ggk)
