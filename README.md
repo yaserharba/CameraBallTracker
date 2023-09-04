@@ -19,4 +19,4 @@ The primary objective of this project was to implement a ball tracking system us
 
 **Video Demonstration:**
 
-A video demonstrating the operation of this project can be found [here]([insert_link_here](https://youtu.be/6jPBWti7ggk)https://youtu.be/6jPBWti7ggk).
+A video demonstrating the operation of this project can be found [here](https://youtu.be/6jPBWti7ggk).
